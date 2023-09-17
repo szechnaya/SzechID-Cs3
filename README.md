@@ -32,7 +32,7 @@
 
 ##
 # Installation:
-<a href="cloudstreamrepo://raw.githubusercontent.com/szechnaya/szechnaya/SzechID-Cs3/repo.json" rel="nofollow"><span>Automatic Install (Installed Cs Required!)</span></a>
+<a href="https://tinyurl.com/SzechID-C3" rel="nofollow" target="_blank"><span>Automatic Install (Installed Cs Required!)</span></a>
  <a href="https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/master/repo.json" rel="nofollow" target="_blank"><span>Manual Installation / Import</span></a>
 ##
 
