@@ -6,7 +6,7 @@ cloudstream {
     language = "id"
     // All of these properties are optional, you can safely remove them
 
-     escription = "DramaID Plugin (Termasuk OppaDrama)"
+     description = "DramaID Plugin (Termasuk OppaDrama)"
      authors = listOf("Szechnaya ID")
 
     /**
