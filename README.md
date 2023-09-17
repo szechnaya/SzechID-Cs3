@@ -1,8 +1,8 @@
 <div align="center">
 
 # *SzechID-CS3_Ext*
-# Unnoficial Custom-Hexated Build
-###Indonesian Provider Only!
+## Unofficial Custom-Hexated Build
+### Indonesian Provider Only!
 <!-- Badges -->
 <p>
   <a href="https://github.com/szechnaya/SzechID-Cs3/graphs/contributors">
