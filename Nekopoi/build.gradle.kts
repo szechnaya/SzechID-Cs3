@@ -1,13 +1,13 @@
 // use an integer for version numbers
-version = 6
+version = 1
 
 
 cloudstream {
     language = "id"
     // All of these properties are optional, you can safely remove them
 
-    // description = "Lorem Ipsum"
-     authors = listOf("Sora")
+     description = "KucingPoi Plugin NSFW Alert!"
+     authors = listOf("Szechnaya ID")
 
     /**
      * Status int as the following:
