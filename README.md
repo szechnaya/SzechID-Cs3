@@ -33,7 +33,7 @@
 ##
 # Installation:
 <ul>
-<li><a href="https://tinyurl.com/SzechID-C3" rel="nofollow" target="_blank"><span>Automatic Install (Installed Cs Required!)</span></a></li>
+<li><a href="https://tinyurl.com/SzechID-C3" rel="nofollow" target="_blank"><span>Automatic Install / Import</span></a></li>
 <li>
  <a href="https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/master/repo.json" rel="nofollow" target="_blank"><span>Manual Installation / Import</span></a></li></ul>
 ##
