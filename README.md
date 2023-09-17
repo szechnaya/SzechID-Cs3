@@ -1,7 +1,8 @@
 <div align="center">
 
 # *SzechID-CS3_Ext*
-# Unnoficial Custom-Hexated Build & Maintener
+# Unnoficial Custom-Hexated Build
+## Indonesia Provider Only!
 
 ##
 <!-- Badges -->
@@ -30,8 +31,12 @@
 </p>
 
 ##
+# Installation:
+<a href="cloudstreamrepo://raw.githubusercontent.com/szechnaya/szechnaya/SzechID-Cs3/repo.json" rel="nofollow"><span>Automatic Install (Installed Cs Required!)</span></a>
+ <a href="https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/master/repo.json" rel="nofollow" target="_blank"><span>Manual Installation / Import</span></a>
+##
 
-# 🕹 Libraries:
+# Libraries:
 
 <a href="https://github.com/szechnaya/SzechID-Cs3"><img src="https://img.shields.io/badge/Kotlin-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100"></a>
 
