@@ -1,6 +1,6 @@
 <div align="center">
 
-# *SzechID-CS3_Ext*
+# *SzechID_Ext*
 ### Unofficial Custom-Hexated Build
 ### Indonesian Provider Only!
 <!-- Badges -->
