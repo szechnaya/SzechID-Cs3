@@ -30,10 +30,7 @@
 
 ##
 # Installation:
-<p><ul>
-<li><a href="https://tinyurl.com/SzechID" rel="nofollow" target="_blank"><span>Automatic Install / Import</span></a></li>
-<li>
- <a href="https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/master/repo.json" rel="nofollow" target="_blank"><span>Manual Installation / Import</span></a></li></ul></p>
+<p><a href="https://rentry.org/szechid-cs3" rel="nofollow" target="_blank"><span>GO HERE</span></a></p>
 
 ##
 # Libraries:
