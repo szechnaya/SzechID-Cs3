@@ -1,13 +1,13 @@
 // use an integer for version numbers
-version = 1
+version = 2
 
 
 cloudstream {
     language = "id"
     // All of these properties are optional, you can safely remove them
 
-    description = "Otakudesu Plugin"
-    authors = listOf("Szechnaya ID")
+    // description = "Lorem Ipsum"
+    authors = listOf("Szechnaya")
 
     /**
      * Status int as the following:
@@ -23,5 +23,5 @@ cloudstream {
         "OVA",
     )
 
-    iconUrl = "https://www.google.com/s2/favicons?domain=otakudesu.wiki&sz=%size%"
+    iconUrl = "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%"
 }

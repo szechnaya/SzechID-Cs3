@@ -114,7 +114,7 @@ class OtakudesuProvider : MainAPI() {
             val episode = Regex("Episode\\s?(\\d+)").find(name)?.groupValues?.getOrNull(0)
                 ?: it.selectFirst("a")?.text()
             val link = fixUrl(it.selectFirst("a")!!.attr("href"))
-            Episode(link, name, episode = episode?.toIntOrNull())
+            Episode(link, episode = episode?.toIntOrNull())
         }.reversed()
 
         val recommendations =
@@ -127,17 +127,20 @@ class OtakudesuProvider : MainAPI() {
                 }
             }
 
+        val tracker = APIHolder.getTracker(listOf(title),TrackerType.getTypes(type),year,true)
 
         return newAnimeLoadResponse(title, url, type) {
             engName = title
-            posterUrl = poster
-            backgroundPosterUrl = poster
+            posterUrl = tracker?.image ?: poster
+            backgroundPosterUrl = tracker?.cover
             this.year = year
             addEpisodes(DubStatus.Subbed, episodes)
             showStatus = status
             plot = description
             this.tags = tags
             this.recommendations = recommendations
+            addMalId(tracker?.malId)
+            addAniListId(tracker?.aniId?.toIntOrNull())
         }
     }
 
@@ -278,4 +281,9 @@ class Moedesu : JWPlayer() {
 class DesuBeta : JWPlayer() {
     override val name = "DesuBeta"
     override val mainUrl = "https://desustream.me/beta/"
+}
+
+class Desudesuhd : JWPlayer() {
+    override val name = "Desudesuhd"
+    override val mainUrl = "https://desustream.me/desudesuhd/"
 }
