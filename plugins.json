@@ -1,0 +1,386 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 14459,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "Animasu",
+        "description": "Trigger Build",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/Animasu.cs3",
+        "name": "Animasu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.fun&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 14709,
+        "status": 0,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "AnimeIndoProvider",
+        "description": "Temp Disable (Cloudflare AntiDDoS)",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/AnimeIndoProvider.cs3",
+        "name": "AnimeIndoProvider"
+    },
+    {
+        "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 15042,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimeSailProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/AnimeSailProvider.cs3",
+        "name": "AnimeSailProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "DramaidProvider",
+        "description": "Include: Oppadrama",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/DramaidProvider.cs3",
+        "name": "DramaidProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=149.3.170.35&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 12985,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "DramaSerial",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/DramaSerial.cs3",
+        "name": "DramaSerial"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 12133,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Dubbindo",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/Dubbindo.cs3",
+        "name": "Dubbindo"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gomunime.is&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 14774,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "Gomunimeis",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/Gomunimeis.cs3",
+        "name": "Gomunimeis"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=185.231.223.76&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 17997,
+        "status": 0,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "GomunimeProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/GomunimeProvider.cs3",
+        "name": "GomunimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 17428,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "KuramanimeProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/KuramanimeProvider.cs3",
+        "name": "KuramanimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=45.12.2.2&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 23671,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "KuronimeProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/KuronimeProvider.cs3",
+        "name": "KuronimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=lk21official.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 16283,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "LayarKacaProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 22236,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Nekopoi",
+        "description": "Sangat Yabai :v",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/Nekopoi.cs3",
+        "name": "Nekopoi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 15582,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "NeonimeProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/NeonimeProvider.cs3",
+        "name": "NeonimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 19104,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "Nimegami",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/Nimegami.cs3",
+        "name": "Nimegami"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nontonanimeid.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 18380,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "NontonAnimeIDProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/NontonAnimeIDProvider.cs3",
+        "name": "NontonAnimeIDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=oploverz.care&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 18162,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "OploverzProvider",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/OploverzProvider.cs3",
+        "name": "OploverzProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 21169,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "OtakudesuProvider",
+        "description": "Lorem Ipsum",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/OtakudesuProvider.cs3",
+        "name": "OtakudesuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=104.237.198.194&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 22199,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "RebahinProvider",
+        "description": "Includes: Cgvindo, Kitanonton",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/RebahinProvider.cs3",
+        "name": "RebahinProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://samehadaku.world&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/szechnaya/SzechID-Cs3",
+        "fileSize": 19625,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Szechnaya"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/szechnaya/SzechID-Cs3/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    }
+]
