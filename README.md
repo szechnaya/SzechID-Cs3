@@ -30,7 +30,7 @@
 
 ##
 # Installation:
-<p><a href="https://rentry.org/szechid-cs3" rel="nofollow" target="_blank"><span>GO HERE</span></a></p>
+<p><ul><li><a href="https://rentry.org/szechid-cs3" rel="nofollow" target="_blank"><span>GO HERE</span></a></li></ul></p>
 
 ##
 # Libraries:
