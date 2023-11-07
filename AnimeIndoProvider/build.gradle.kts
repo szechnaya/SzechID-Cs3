@@ -6,8 +6,8 @@ cloudstream {
     language = "id"
     // All of these properties are optional, you can safely remove them
 
-    // description = "Lorem Ipsum"
-     authors = listOf("Szechnaya")
+    description = "Temp Disable (Cloudflare AntiDDoS)"
+    authors = listOf("Szechnaya")
 
     /**
      * Status int as the following:
